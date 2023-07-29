@@ -16,7 +16,7 @@ export default function Galeria() {
         "/img/bolo9.jpeg",
       ];
   return (
-    <article className="border-dashed border-4 border-fuchsia-400 md:p-4  p-2 rounded-md my-4 flex flex-col ">
+    <article className="border-dashed md:border-4 border-fuchsia-400 md:p-4 p-2 rounded-md my-4 flex flex-col ">
       <Titulos titulo="Galeria Bolos" />
       <div className="h-1/4 md:gap-6 gap-2 grid grid-cols-2 md:grid-cols-3 md:m-auto">
 
